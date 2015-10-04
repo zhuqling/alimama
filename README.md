@@ -1,2 +1,2 @@
-# alimama
-Auto get aff link--python program
+# Alimama
+**Auto Get AuctionList and Aff link By Python Program**
